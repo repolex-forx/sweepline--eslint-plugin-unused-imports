@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "sweepline",
+  "repo": "eslint-plugin-unused-imports",
+  "versions": [
+    {
+      "commit": "8b3486a2a38071573a607f6f6b92c3f0e56887f1",
+      "parsed_at": "2026-04-09T20:14:31.228072+00:00",
+      "tag": "v4.4.0",
+      "filetree": "filetree/8b3486a2a38071573a607f6f6b92c3f0e56887f1.nq.gz",
+      "blobs": [
+        "blob/2abf2b7234a7b855d451c7ea37a3f13b45176bba.nq.gz",
+        "blob/fc2a9d3fc4ce6094434b31ff0005fe78ff3d9047.nq.gz",
+        "blob/82afa9936113a119383f21537d53592952ac5a20.nq.gz",
+        "blob/8bea256a63f9c2578fdedc636828cc5b148289cf.nq.gz",
+        "blob/1b0a5742973115d63245be72edcd3716c3dd3512.nq.gz",
+        "blob/af899580c666d1cc0bd654c8e5e4b65e20506fe8.nq.gz",
+        "blob/854dd973134f38bf2e035494401fb0a14680c4f1.nq.gz",
+        "blob/9e01a3690ba186313fc94fd2de1f80bbb0a0cf19.nq.gz",
+        "blob/b8ed38ce1be2dc1226189091ebc34ab008c433d2.nq.gz",
+        "blob/cf05326b9404dee2db31de9b0b984e3215b753e1.nq.gz",
+        "blob/635566f805447d15a704f795e8327b03a3fe54fb.nq.gz",
+        "blob/8b1c61f31952ba990f595e6b9c2f5e8d9f543695.nq.gz",
+        "blob/7527018372692a1888726a60291087af68bf36dd.nq.gz",
+        "blob/b15238fc59e03b1ccc0d9ef6fd3fc7bfe92d8c7b.nq.gz",
+        "blob/b975ef2b7ae7b00e12a579caf67a7c5146829c11.nq.gz",
+        "blob/9c1fc43cc7d1020c0fe3500ed5684c1a383a8599.nq.gz",
+        "blob/f9156abdfad32f8290349f512f46ee5ebcf6eaef.nq.gz",
+        "blob/cf69529a5314ca3d5660864cb34a360d8660b269.nq.gz",
+        "blob/b5e61eb7615422feab5421f554f098ef6a2df568.nq.gz",
+        "blob/64fbe6ac017d5cc423e3377c26b3b37dcc8c45e9.nq.gz",
+        "blob/efc037aa8467135a1f3578711c4bf2240aff1cb3.nq.gz",
+        "blob/a128733be256fe6e5e634bcb3e9ec773dc4df173.nq.gz",
+        "blob/4f772037cd3bf2eb06dc74d2a4b06c35ea1e38fb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
